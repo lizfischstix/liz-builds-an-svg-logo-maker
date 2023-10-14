@@ -1,0 +1,20 @@
+// X create file/folder structure
+    // examples/, lib/shapes.js, shapes.test.js/, index.js/,   gitignore/, packageJson, README
+// X install nmp packages
+    //inquirer
+    //Jest
+// create user input object questions
+    //inquirer
+// create class/constructors
+    //shapes
+    //shape color
+    //text color
+    //fonts ?
+// build functions to translate user input into svg file
+    //fs
+// import testing
+// test
+    //save passed tests to /examples
+
+    
+
