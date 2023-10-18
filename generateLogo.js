@@ -1,1 +1,0 @@
-const generateVector = require('userInput')

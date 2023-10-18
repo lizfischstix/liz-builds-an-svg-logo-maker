@@ -31,7 +31,7 @@ const SVG = require("./lib/svg")
        console.log("Shape type: " +shapeType);
         let shapeCreated;
         switch(shapeType){
-            case "Sqaure":
+            case "Square":
                 console.log("This is a square");
                 shapeCreated = new Square();
                 break;
